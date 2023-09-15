@@ -1,6 +1,6 @@
 ## NextJs Tailwind Dev Template
 
-<p>Beautiful and minimal website template created with NextJs and tailwind CSS</p>
+<p>Beautiful and minimal website template created with NextJs and tailwind CSS.</p>
 
 Check out for yourself! [Here](https://nextjs-tailwind-dev-template.vercel.app/)
 
